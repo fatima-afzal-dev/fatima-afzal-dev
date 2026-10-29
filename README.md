@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hi, I'm Fatima Afzal 👋
 
+### Software Engineering Student | Backend Developer | Python, Django, PHP & Laravel
+
+I'm a Software Engineering student passionate about backend development and building practical, scalable web applications. I have hands-on experience developing applications using Python, Django, PHP, Laravel, and MySQL, with a focus on database management, authentication, role-based access control, and workflow automation.
+
+Through academic projects and internship experience, I've worked on CRUD applications, multi-level approval systems, and database-driven web applications. I'm continuously improving my problem-solving skills and exploring software engineering best practices.
+
+**Currently focused on:** Backend development, REST APIs, database design, and writing clean, maintainable code.
+
+**Career goal:** To grow as a software engineer by contributing to real-world projects, collaborating with development teams, and building reliable software solutions.
 <!--
 **fatima-afzal-dev/fatima-afzal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
